@@ -2,5 +2,8 @@
     "id": 4,
     "firstName": "Sally",
     "lastName": "Anne",
-    "avatar": "sally.jpg"
+    "avatar": "sally.jpg",
+    "email": "sallya@example.com",
+    "homeTown": "Elbow, AB",
+    "bio": "In scelerisque ut enim vitae accumsan. Praesent vitae viverra metus. Maecenas venenatis neque ut lacus elementum, sit amet aliquam magna scelerisque. Integer molestie elit velit. Praesent non lorem diam. Curabitur ut ipsum ultricies, facilisis nibh nec, consequat nisl. Etiam convallis ornare arcu, sed dictum neque rhoncus eu. Cras convallis in neque nec imperdiet."
 }
